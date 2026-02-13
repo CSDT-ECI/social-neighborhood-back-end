@@ -5,10 +5,10 @@
   * [Repositorio principal del proyecto](https://github.com/social-neighborhood/social-neighborhood.git) 
   * [Repositorio del Front-end del proyecto](https://github.com/social-neighborhood/social-neighborhood-front-end.git)
 
-# Participantes
-* Juan Camilo Posso Guevara
-* Juan Sebastian Buitrago Piñeros
-* Richard Santiago Urrea Garcia
+# Integrantes
+  * [Ana Maria Salazar Bohorquez](https://github.com/anamariasalazar)
+  * [Juan Camilo Posso Guevara](https://github.com/JCPosso)
+  * [Richard Santiago Urrea Garcia](https://github.com/RichardUG)
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c5df6638357046ba9711999da8a24d9f)](https://www.codacy.com/gh/social-neighborhood/social-neighborhood-back-end/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=social-neighborhood/social-neighborhood-back-end&amp;utm_campaign=Badge_Grade)

@@ -1,3 +1,8 @@
+# Participantes
+* Juan Camilo Posso Guevara
+* Juan Sebastian Buitrago Piñeros
+* Richard Santiago Urrea Garcia
+
 # Informe de Deuda Técnica
 
 A continuación, se presenta un análisis detallado de la deuda técnica en el repositorio **social-neighborhood-back-end**. Este informe incluye problemas arquitectónicos, violaciones de principios de diseño, code smells, riesgos de mantenibilidad, problemas de testabilidad y estrategias de refactorización sugeridas.
